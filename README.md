@@ -1,2 +1,2 @@
-# remove_dupes
-vbscript - to remove duplicate entries
+# vbscripts
+vbscript - collection of vbscripts
